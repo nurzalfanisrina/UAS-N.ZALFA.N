@@ -1,0 +1,11 @@
+{
+	"_id": {
+		"$oid": "676caaffad5011326c5201d8"
+	},
+	"ID_Transaksi": "TRX001",
+	"ID_Anggota": "AGT001",
+	"Tanggal_Transaksi": "2024-01-15",
+	"Jenis_Paket": "Bulanan",
+	"Harga_Paket": "Rp300000",
+	"Status": "Lunas"
+}

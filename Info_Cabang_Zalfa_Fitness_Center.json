@@ -1,0 +1,10 @@
+{
+	"_id": {
+		"$oid": "676ca890ad5011326c5201d4"
+	},
+	"ID_FitnessCenter": "FC001",
+	"Nama": "Zalfa Fitness Center",
+	"Alamat": "Jl. Kebugaran No.1",
+	"Telepon": "088812344321",
+	"Tanggal_Dibuka": "2018-03-30"
+}

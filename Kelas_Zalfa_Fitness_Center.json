@@ -1,0 +1,36 @@
+{
+	"_id": {
+		"$oid": "676caa96ad5011326c5201d7"
+	},
+	"ID_Kelas": "KLS001",
+	"Nama_Kelas": "Bodybuilding",
+	"ID_Instruktur": "INS001",
+	"Waktu": "Selasa & Kamis/18:00-19:30",
+	"Deskripsi": "Kelas bodybuilding untuk meningkatkan massa otot dan kekuatan tubuh",
+	"Harga": "Rp200000",
+	"Jumlah_Peserta": "5"
+}
+{
+	"_id": {
+		"$oid": "676cacd1ad5011326c5201e2"
+	},
+	"ID_Kelas": "KLS002",
+	"Nama_Kelas": "Bodybuilding",
+	"ID_Instruktur": "INS002",
+	"Waktu": "Senin & Rabu/18:00-19:30",
+	"Deskripsi": "Kelas bodybuilding untuk meningkatkan massa otot dan kekuatan tubuh",
+	"Harga": "Rp200000",
+	"Jumlah_Peserta": "5"
+}
+{
+	"_id": {
+		"$oid": "676cad0fad5011326c5201e3"
+	},
+	"ID_Kelas": "KLS003",
+	"Nama_Kelas": "Yoga untuk pemula",
+	"ID_Instruktur": "INS003",
+	"Waktu": "Selasa & Kamis/18:00-19:30",
+	"Deskripsi": "Kelas untuk keseimbangan tubuh",
+	"Harga": "Rp200000",
+	"Jumlah_Peserta": "5"
+}

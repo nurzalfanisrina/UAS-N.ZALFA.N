@@ -1,0 +1,45 @@
+{
+	"_id": {
+		"$oid": "676cab58ad5011326c5201d9"
+	},
+	"ID_Fasilitas": "FSL001",
+	"Nama_Fasilitas": "Gym",
+	"Deskripsi": "Area untuk latihan kekuatan dan kebugaran dengan berbagai peralatan gym.",
+	"Status": "Tersedia"
+}
+{
+	"_id": {
+		"$oid": "676cab6dad5011326c5201da"
+	},
+	"ID_Fasilitas": "FSL002",
+	"Nama_Fasilitas": "Gym",
+	"Deskripsi": "Area untuk latihan kekuatan dan kebugaran dengan berbagai peralatan gym.",
+	"Status": "Tersedia"
+}
+{
+	"_id": {
+		"$oid": "676cab7aad5011326c5201db"
+	},
+	"ID_Fasilitas": "FSL003",
+	"Nama_Fasilitas": "Gym",
+	"Deskripsi": "Area untuk latihan kekuatan dan kebugaran dengan berbagai peralatan gym.",
+	"Status": "Tersedia"
+}
+{
+	"_id": {
+		"$oid": "676cabb8ad5011326c5201dc"
+	},
+	"ID_Fasilitas": "FSL004",
+	"Nama_Fasilitas": "Kolam Renang",
+	"Deskripsi": "Kolam renang untuk latihan renang dan relaksasi.",
+	"Status": "Tersedia"
+}
+{
+	"_id": {
+		"$oid": "676cabcbad5011326c5201dd"
+	},
+	"ID_Fasilitas": "FSL005",
+	"Nama_Fasilitas": "Kolam Renang",
+	"Deskripsi": "Kolam renang untuk latihan renang dan relaksasi.",
+	"Status": "Tersedia"
+}

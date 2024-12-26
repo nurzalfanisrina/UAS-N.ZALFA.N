@@ -1,0 +1,39 @@
+{
+	"_id": {
+		"$oid": "676ca908ad5011326c5201d5"
+	},
+	"ID_Anggota": "AGT001",
+	"Nama": "Yoon Jeonghan",
+	"Email": "han@gmail.com",
+	"Alamat": "Jl. Merdeka No.1",
+	"Telepon": "081212344321",
+	"Tanggal_Pendaftaran": "2024-01-15",
+	"Jenis_Paket": "Bulanan",
+	"Tanggal_Akhir_Paket": "2024-02-15"
+}
+{
+	"_id": {
+		"$oid": "676cac0aad5011326c5201de"
+	},
+	"ID_Anggota": "AGT002",
+	"Nama": "Hong Joshua",
+	"Email": "shua@gmail.com",
+	"Alamat": "Jl. Merdeka No.1",
+	"Telepon": "085698766789",
+	"Tanggal_Pendaftaran": "2024-01-15",
+	"Jenis_Paket": "Bulanan",
+	"Tanggal_Akhir_Paket": "2024-02-15"
+}
+{
+	"_id": {
+		"$oid": "676cac34ad5011326c5201df"
+	},
+	"ID_Anggota": "AGT003",
+	"Nama": "Wen Junhui",
+	"Email": "huihui@gmail.com",
+	"Alamat": "Jl. Merdeka No.1",
+	"Telepon": "088890877890",
+	"Tanggal_Pendaftaran": "2024-01-15",
+	"Jenis_Paket": "Bulanan",
+	"Tanggal_Akhir_Paket": "2024-02-15"
+}

@@ -1,0 +1,36 @@
+{
+	"_id": {
+		"$oid": "676ca9bfad5011326c5201d6"
+	},
+	"ID_Instruktur": "INS001",
+	"Nama": "Nur Zalfa NIsrina",
+	"Posisi": "Instruktur Fitness",
+	"Telepon": "081298766789",
+	"Tanggal_Masuk": "2020-05-01",
+	"Gaji": "Rp7000000",
+	"Keahlian": "Cardio"
+}
+{
+	"_id": {
+		"$oid": "676cac67ad5011326c5201e0"
+	},
+	"ID_Instruktur": "INS002",
+	"Nama": "Choi Seungcheol",
+	"Posisi": "Instruktur Fitness",
+	"Telepon": "081343212345",
+	"Tanggal_Masuk": "2020-05-01",
+	"Gaji": "Rp7000000",
+	"Keahlian": "Cardio"
+}
+{
+	"_id": {
+		"$oid": "676cac91ad5011326c5201e1"
+	},
+	"ID_Instruktur": "INS003",
+	"Nama": "Xu MInghao",
+	"Posisi": "Instruktur Yoga",
+	"Telepon": "087798766789",
+	"Tanggal_Masuk": "2020-05-01",
+	"Gaji": "Rp7000000",
+	"Keahlian": "Cardio"
+}
